@@ -916,7 +916,8 @@ export default {
   width: 100%;
   background:  color-mix(in srgb, hsl(from var(--primary) h s calc( l / 2 )) 70%, transparent) ;
   border-color: var(--primary);
-  color: var(--foreground);
+  color: #e2e4ff;
+  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.542);
   padding: 0.85rem;
   font-weight: 700;
   font-size: 0.95rem;
@@ -939,7 +940,7 @@ export default {
 
 :deep(.submit-btn:hover:not(:disabled)) {
   opacity: 0.92;
-  color: hsl(from var(--foreground) h s  calc( l * 0.2 ));
+  color: #e2e4ff;
   background: var(--primary) !important;
   border-color: var(--primary) !important;
 }

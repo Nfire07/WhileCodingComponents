@@ -25,6 +25,10 @@ export default {
     iconLabel: {
       type: String,
       default: 'Home'
+    },
+    iconPath:{
+      type: String,
+      default: "/favicon.ico"
     }
   },
   computed: {
@@ -194,7 +198,7 @@ export default {
       >
         <template v-if="link === 'icon'">
           <a href="/home" class="icon-link">
-            <img src="/favicon.ico" alt="R3DSTL ICON" class="icon-img" />
+            <img :src="iconPath" alt="APPLICATION ICON" class="icon-img"/>
             <span class="icon-label" v-html="iconLabel"></span>
           </a>
         </template>

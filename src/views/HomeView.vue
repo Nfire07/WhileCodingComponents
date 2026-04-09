@@ -187,7 +187,6 @@
 
     <!-- Text example -->
     <Layout type="grid" margin="2rem 2rem 2rem 2rem" columns="auto 1fr" :wrap="false" align="start">
-      <img src="../assets/favicon.png" alt="ICONa" style="width: 10rem;" />
       <p style="text-align: justify;"><span style="font-size: 25px;font-weight: 800;">L</span>orem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quasi, consectetur cum ipsam inventore in recusandae, necessitatibus, quod quidem incidunt voluptate nemo amet quis doloremque nobis dolorum laborum similique alias.
       Hic voluptatum quam saepe delectus velit. Dolore enim repellendus, totam saepe dolorum aut nisi voluptate quia dolor, deserunt vel. Voluptas cupiditate voluptate id dolor quae laudantium quos, reiciendis obcaecati deserunt.
       Tempora temporibus blanditiis odit sed quo repellendus, quam, mollitia ut culpa, voluptas atque a labore vitae perferendis qui aliquid? Possimus ad fuga hic ipsum laborum perferendis earum iure nesciunt eum!
@@ -198,7 +197,6 @@
       Impedit sed cum inventore aut eligendi nulla saepe atque quam dolorem, animi ex non fugit omnis dolorum aliquam nam eos delectus. Ipsam qui molestiae magnam corrupti rem optio, architecto libero?
       Fugiat dignissimos omnis ex quas voluptas voluptates exercitationem quo veritatis incidunt doloribus. Delectus repudiandae qui aliquam facilis illum totam veniam ipsum saepe quaerat provident! Unde sit libero autem dolorem magni?
       </p>
-      <img src="../assets/favicon.png" alt="ICONa" style="width: 10rem;" />
       <p style="text-align: justify;"><span style="font-size: 25px;font-weight: 800;">L</span>orem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quasi, consectetur cum ipsam inventore in recusandae, necessitatibus, quod quidem incidunt voluptate nemo amet quis doloremque nobis dolorum laborum similique alias.
       Hic voluptatum quam saepe delectus velit. Dolore enim repellendus, totam saepe dolorum aut nisi voluptate quia dolor, deserunt vel. Voluptas cupiditate voluptate id dolor quae laudantium quos, reiciendis obcaecati deserunt.
       Tempora temporibus blanditiis odit sed quo repellendus, quam, mollitia ut culpa, voluptas atque a labore vitae perferendis qui aliquid? Possimus ad fuga hic ipsum laborum perferendis earum iure nesciunt eum!
